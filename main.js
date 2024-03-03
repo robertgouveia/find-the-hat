@@ -1,4 +1,3 @@
-const prompt = require('prompt-sync')({sigint: true});
 const process = require('node:process');
 
 const hat = '^';
